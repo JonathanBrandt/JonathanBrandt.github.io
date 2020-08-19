@@ -48,7 +48,7 @@
 .input-group{
 	top: 180px;
 	position: absolute;
-	width: 280 px;
+	width: 280px;
 	transition: .5s;
 }
 .input-field{
@@ -68,16 +68,11 @@
 	cursor: pointer;
 	display: block;
 	margin: auto;
+	margin-top: 25px;
 	background: linear-gradient(to right,#ff105f,#ffad06);
 	border: 0;
 	outline: none;
 	border-radius: 30px;
-}
-span{
-	color: #777;
-	fond-size: 12px;
-	bottom: 68px;
-	position: absolute;
 }
 #login{
 	left: 50px;
